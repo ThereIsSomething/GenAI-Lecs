@@ -3,7 +3,7 @@ import tiktoken
 words = ['pencil','apple','me ','no no no','谢谢']
 
 encoding = tiktoken.encoding_for_model("gpt-4o-mini")
-newstr = "Hey, Hi! how are you doing nitish?"
+newstr = "Hey, Hi! how are you doing nitish and really, you went there?"
 
 for i in words:
     result = encoding.encode(i)
