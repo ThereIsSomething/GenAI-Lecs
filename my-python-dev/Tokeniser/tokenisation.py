@@ -7,7 +7,7 @@ newstr = "Hey, Hi! how are you doing nitish?"
 
 for i in words:
     result = encoding.encode(i)
-    print(result)
+    print(result) 
 
 
 vars = (encoding.encode(newstr))
