@@ -1,2 +1,12 @@
 .env
 node_modules
+
+my-python-dev/.venv
+my-python-dev/__pycache__
+my-python-dev/.pytest_cache
+my-python-dev/.mypy_cache
+my-python-dev/.vscode
+my-python-dev/.idea
+my-python-dev/.DS_Store
+my-python-dev/.env
+my-python-dev/.env.*
